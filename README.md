@@ -39,23 +39,17 @@ V2.3 2022.6.28 14:26
 添加了部分bug  
 Removed Herobrine  
 
-## Update Logs
+V3.0 Alpha 2023.2.11 23:13
+此版本为测试版，UI和代码并未统一到相同风格，不代表最终品质
+修改了示波器模式的部分UI设计，添加了波形生成功能，开机/重启时按Key0按键进入
+添加了XY模式（双通道同步采样），开机/重启时按Key1按键进入
+添加了波形播放模式（仅播放+OLED显示），开机/重启时按Key2按键进入
+修复了部分bug
+添加了部分bug
+Removed Herobrine
 
-V2.1 2020.11.12 14:32  
-Add comment  
-Add Frequency Meter  
-Add TipsView for SyncMode  
-Add another 2 sample rates in PC    
-V2.2 2020.11.23 15:59  
-Add FFT (Press Key0 when Menu off)  
-V2.3 2022.6.28 14:26    
-Modify SysTick to 56MHz (PLLMUL=7)  
-Add 1MHz Sample Rate  
-Fix OLED Driver  
-Remove bugs  
-Added bugs  
-Removed Herobrine  
-
+注：
+AD文件中元件标注不完全正确，请随缘购买
 
 ## Demonstration
 使用演示可见本人Bilibili主页  
